@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 // Import SafeMath library to prevent integer overflow and underflow errors
